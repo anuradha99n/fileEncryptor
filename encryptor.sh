@@ -3,7 +3,7 @@
 if [ ! -d "./encrypted" ]
 then
     # folder not exist then create it
-    echo "Directory does not exist !"
+    echo "Directory does not exist !!"
     mkdir encrypted
 else
     echo "Directory exists"
