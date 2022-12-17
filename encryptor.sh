@@ -6,7 +6,7 @@ then
     echo "Directory does not exist !"
     mkdir encrypted
 else
-    echo "Directory exists"
+    echo "Directory exists !"
     echo "Copy the files to [encrypted] folder"
     echo -n "Press [ENTER] to continue,...: "
     read var_name
